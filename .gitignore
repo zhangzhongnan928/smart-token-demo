@@ -1,0 +1,20 @@
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Node modules (if any)
+node_modules/
+
+# Python virtual env (if any)
+venv/
+__pycache__/
+*.py[cod]
+
+# Log files
+*.log 
